@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pqmpkin
-- 👀 I’m interested in minecraft modding and skript
-- 🌱 I’m currently learning minecraft modding
+- 👀 I’m interested in minecraft modding and plugins
+- 🌱 I’m currently learning minecraft modding and plugins
 - 📫 How to reach me: On discord! Pqmpkin.
 - 😄 Pronouns: he him
 - ⚡ Fun fact: I like cats
