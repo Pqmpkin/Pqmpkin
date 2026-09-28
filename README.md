@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Pqmpkin
-- 👀 I’m interested in minecraft modding and plugins
-- 🌱 I’m currently learning minecraft modding and plugins
-- 📫 How to reach me: On discord! Pqmpkin.
-- 😄 Pronouns: he him
-- ⚡ Fun fact: I like cats
-
+Don't read me actually!
 <!---
 Pqmpkin/Pqmpkin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
